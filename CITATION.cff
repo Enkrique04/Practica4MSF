@@ -10,7 +10,7 @@ authors:
     family-names: Estrada Castillo
     email: l22211753@tectijuana.edu.mx
     affiliation: TECNM-ITT
-repository-code: 'https://github.com/Enkrique04/Practica3MSF'
+repository-code: 'https://github.com/Enkrique04/Practica4MSF'
 keywords:
   - Modelo músculo-mecánico
   - Controlador PI
@@ -19,4 +19,4 @@ keywords:
   - Sistema musculoesqueletico
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-10-30'
+date-released: '2025-11-07'
