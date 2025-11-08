@@ -2,8 +2,8 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: MATLAB;SPYDER
-message: 'Lenguaje,m;Python'
+title: MATLAB
+message: 'Lenguaje,m'
 type: software
 authors:
   - given-names: Ian Estrada
@@ -12,11 +12,11 @@ authors:
     affiliation: TECNM-ITT
 repository-code: 'https://github.com/Enkrique04/Practica4MSF'
 keywords:
-  - Modelo músculo-mecánico
-  - Controlador PI
-  - Modelo matemático
+  - Eritropoyesis
+  - EDOs
   - Simulación numérica
-  - Sistema musculoesqueletico
+  - Modelo matemático
+  - Retroalimentación fisiológica
 license: BSD-2-Clause
 version: '1.0'
 date-released: '2025-11-07'
